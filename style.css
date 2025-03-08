@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial;
+    font-family: 'Times New Roman';
 
 }
 
 .main-heading {
       text-align: center;
-      font-size: 30px;
+      font-size: 28px;
       color: black;
       background-color: wheat;
       padding-top: 11px;
@@ -37,6 +37,7 @@
       margin-top: 5px;
       margin-left: 10px;
       font-weight: bold;
+      font-size: 16px;
       margin-right: 10px;
       }
       
@@ -111,3 +112,10 @@
       margin-top: 12px;
       
       }
+      
+      #test-audio {
+          
+          margin-right: 20px;
+          margin-left: 20px;
+          margin-top:12px ;
+          }
