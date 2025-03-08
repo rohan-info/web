@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+
+}
+
+.main-heading {
+      text-align: center;
+      font-size: 30px;
+      color: black;
+      background-color: wheat;
+      font-family: Arial;
+      padding-top: 11px;
+      padding-bottom: 9px;
+      
+      }
+  
+  .ramadan {
+      margin: 0;
+      padding: 0;
+      width: 100vw;
+      display: block;
+  }
+  
+  #hr1 {
+      width: 100%;
+      height: 4px;
+      background-color: wheat;
+      border: none;
+      margin-top: 0;
+  }
+  
+  
+  
+  #welcome-p{
+      margin-top: 5px;
+      margin-left: 10px;
+      font-weight: bold;
+      }
+      
+      #hr2 {
+      width: 100%;
+      height: 4px;
+      background-color: wheat;
+      border: none;
+      margin-top: 6px;
+      }
+      
+      #hr3 {
+      width: 100%;
+      height: 4px;
+      background-color: wheat;
+      border: none;
+      margin-top: 32px;
+      }
+  
+          
+      
+ 
+  .Visit-links {
+          font-weight: bold;
+          margin-top: 10px;
+          margin-left: 10px; 
+          
+      }
+      
+  .links {
+      margin-right: ;
+      margin-top: 10px;
+      margin-left: 25px;
+      }
+      
+      .test-items {
+          margin-left: 20px;
+          margin-top: 10px;
+      }
+ 
+  
+  #test-image {
+      
+      margin-left: 20px;
+      margin-top:12px ;
+      
+  }
+  
+  #hr4 {
+      
+      width: 100%;
+      height: 4px;
+      background-color: wheat;
+      border: none;
+      margin-top: 12px;
+  }
+  
+    #hr5 {
+      
+      width: 100%;
+      height: 4px;
+      background-color: wheat;
+      border: none;
+      margin-top: 12px;  
+}
+
+  #hr6 {
+      width: 100%;
+      height: 4px;
+      background-color: wheat;
+      border: none;
+      margin-top: 12px;
+      
+      }
